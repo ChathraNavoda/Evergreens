@@ -1,4 +1,4 @@
-# evergreens
+# 🌿Evergreens
 
 A new Flutter project.
 
